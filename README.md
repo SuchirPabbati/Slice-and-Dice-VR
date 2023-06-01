@@ -27,7 +27,11 @@ To get started with the VR Fruit Ninja game, follow these steps:
 5. **Build and Run**: Build the project for your target VR platform and run the game to enjoy the VR Slice and Dice experience!
 
 ## Demo
-[![Game Demo](https://img.youtube.com/vi/oXlwWbU8l2o/0.jpg)](videos/demo.mp4)
+
+<details>
+<summary>Click to expand</summary>
+
+https://github.com/SuchirPabbati/Slice-and-Dice-VR/assets/106083812/3b3cd69d-8e50-4170-94d6-34009abec144
 
 
 ## Additional Resources
