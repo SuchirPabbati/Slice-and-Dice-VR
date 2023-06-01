@@ -21,7 +21,7 @@ To get started with the VR Fruit Ninja game, follow these steps:
 1. **Prerequisites**: Ensure you have Unity installed on your system.
 2. **Clone the Repository**: Clone this repository to your local machine using the following command
   ##
-    git clone https://github.com/SuchirPabbati/unity-vr-fruit-ninja.git
+    git clone https://github.com/SuchirPabbati/Slice-and-Dice-VR.git
 3. **Open the Project**: Launch Unity and open the project by selecting the folder where you cloned the repository.
 4. **Set Up VR**: Configure your VR headset (e.g., Oculus Rift, HTC Vive) to work with Unity.
 5. **Build and Run**: Build the project for your target VR platform and run the game to enjoy the VR Slice and Dice experience!
