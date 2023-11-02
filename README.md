@@ -41,9 +41,6 @@ Here are some additional resources you might find helpful:
 - Unity XR Interaction Toolkit Documentation: [docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@latest/](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@latest/)
 - EZy Slice API Documentation: [https://github.com/DavidArayan/ezy-slice](https://github.com/DavidArayan/ezy-slice)
 
-## License
-
-The Slice and Dice VR game is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ---
 
